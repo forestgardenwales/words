@@ -9,7 +9,7 @@ Forest garden & design services in West Wales.
 forest garden, design, garden, low energy, low maintenance
 
 ### Profile: Paragraph
-Welcome to our 8 acre forest garden in Ceredigion showcasing edible plants and trees. Everything we grow is entirely free of chemicals and we aim to produce 30% of the food required for a family of four and enough wood to heat our house. You don't need a large site for a forest garden - just one acre will produce an abundance of food - reducing the amount you spend on food, making you healthier, reducing airmiles and helping to tackle climate change. What's more
+Welcome to our 8 acre forest garden in Ceredigion showcasing edible plants and trees. Everything we grow is entirely free of chemicals and we aim to produce 30% of the food required for a family of four and enough wood to heat our house. You don't need a large site for a forest garden - just one acre will produce an abundance of food - reducing the amount you spend on food – helping reduce airmiles and helping to tackle climate change. What's more it's fun, healthy and as low main
 ### Description: Page
 
 ### Forest gardening definition
@@ -17,5 +17,6 @@ Welcome to our 8 acre forest garden in Ceredigion showcasing edible plants and t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDY5MTc2LC0xNjc4NjY3MzcwXX0=
+eyJoaXN0b3J5IjpbLTE5OTA3OTQ3NjIsLTE2Nzg2NjczNzBdfQ
+==
 -->
