@@ -19,10 +19,10 @@ More people than ever before are choosing to grow their own food. Many of us are
 
 ## Forest garden definition
 
-A forest garden is “a designed agronomic system based on trees, shrubs and perennial plants. These are mixed in such a way as to mimic the structure of a natural forest—the most stable and sustainable type of ecosystem in this climate” (Martin Crawford, Agroforestry Trust). Plants are grown on 7 layers: canopy (large trees), low tree layer (smaller trees), shrub layer, herbaceous layer, rhizosphere, ground cover layer and climbers (vertical layer). Combining plants in this way increases their resiliance by increasing their resistance to disease and enables plants which benefit each other to be grown together (such as ?)
+A forest garden is “a designed agronomic system based on trees, shrubs and perennial plants. These are mixed in such a way as to mimic the structure of a natural forest—the most stable and sustainable type of ecosystem in this climate” [Martin Crawford](https://www.agroforestry.co.uk/about-agroforestry/forest-gardening/). Plants are grown on 7 layers: canopy (large trees), low tree layer (smaller trees), shrub layer, herbaceous layer, rhizosphere, ground cover layer and climbers (vertical layer). Combining plants in this way increases their resiliance by increasing their resistance to disease and enables plants which benefit each other to be grown together (such as ?)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjE2NTcxMiwxNzE1NzM0MzQxLDg1MD
+eyJoaXN0b3J5IjpbMTcxNDQ3NjcxOSwxNzE1NzM0MzQxLDg1MD
 UwOTkwNywtOTczOTQ2NDJdfQ==
 -->
