@@ -15,10 +15,10 @@ Welcome to our 8 acre forest garden in Ceredigion showcasing edible plants and t
 ### Description: Page
  We can help you with the design and planting of your own forest garden whether it be a back yard or 10 acres. Unlike a traditional veg patch, forest gardens enable the production of food on up to 7 layers simultaneously. Edible crops typically consist of fruit, nuts and leaves. Non edible crops consist of firewood, peasticks and willow for basketry. Many of the materials you need to be self sufficient can be obtained from your own garden. And because a natural forest looks after itself so will a carefully designed and planted forest garden. No more mowing and digging every weekend, by selecting the right plants for the right place only a minimum of pruning or tidying is required. For example: ? It's cheaper, healthier, better for wildlife and low maintenance.
 ### Forest gardening definition
-A forest garden  “a designed agronomic system based on trees, shrubs and perennial plants. These are mixed in such a way as to mimic the structure of a natural forest – the most stable and sustainable type of ecosystem in this climate” (Martin Crawfords Web site). Plants are grown on 7 layers: canopy (large trees), low tree layer (smaller trees), shrub layer, herbaceous layer, rhizosphere, ground cover layer and climbers (vertical layer). Combining plants in this way increases their resiliance by increasing their resistance to disease and enables plants which benefit each other to be grown together (such as ?)
+A forest garden is “a designed agronomic system based on trees, shrubs and perennial plants. These are mixed in such a way as to mimic the structure of a natural forest – the most stable and sustainable type of ecosystem in this climate” (Martin Crawfords Web site). Plants are grown on 7 layers: canopy (large trees), low tree layer (smaller trees), shrub layer, herbaceous layer, rhizosphere, ground cover layer and climbers (vertical layer). Combining plants in this way increases their resiliance by increasing their resistance to disease and enables plants which benefit each other to be grown together (such as ?)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0NDU0OTU1LC05NzM5NDY0Miw4NTA1MD
-k5MDcsLTk3Mzk0NjQyXX0=
+eyJoaXN0b3J5IjpbLTY1MDg1MjY1MSwtOTczOTQ2NDIsODUwNT
+A5OTA3LC05NzM5NDY0Ml19
 -->
