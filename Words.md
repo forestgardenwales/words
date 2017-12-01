@@ -1,7 +1,5 @@
 ## Words
 
-😍
-
 ### Summary: Sentence
 
 Forest garden & design services in West Wales.
@@ -21,6 +19,6 @@ A forest garden i ands “a designed agronomic system based on trees, shrubs and
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMjg4NzUxLC0xMjQxNDc0MDcwLDg1MD
-UwOTkwNywtOTczOTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbMjA5NDQyOTk3OSwtMTI0MTQ3NDA3MCw4NT
+A1MDk5MDcsLTk3Mzk0NjQyXX0=
 -->
