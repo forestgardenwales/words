@@ -1,7 +1,7 @@
 # Words
 
 ### Mission statement
-To bring forest gardening into the main
+To bring forest gardening into mainstre
 
 ## Headline
 Forest garden & design services in West Wales.
@@ -25,6 +25,6 @@ A forest garden is “a designed agronomic system based on trees, shrubs and per
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYzODA2NjUsLTEzOTAzNTc5NSw4NT
-A1MDk5MDcsLTk3Mzk0NjQyXX0=
+eyJoaXN0b3J5IjpbMTI2MjM5ODY5MCwtMTM5MDM1Nzk1LDg1MD
+UwOTkwNywtOTczOTQ2NDJdfQ==
 -->
