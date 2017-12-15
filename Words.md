@@ -1,10 +1,13 @@
 # Words
 
+### Mission statement
+To b
+
 ## Headline
 Forest garden & design services in West Wales.
 
 ## Summary 155
-We’re an 8 acre forest garden in West Wales, offering garden design services & courses.
+We’re an 8 acre forest garden in West Wales and offer a forest garden design service & courses.
 
 ## Keywords
 forest garden, design, garden, low energy, low maintenance, edible plants, climate change, biodiversity, wildlife, nature, carbon, ecosystem, organic
@@ -22,6 +25,6 @@ A forest garden is “a designed agronomic system based on trees, shrubs and per
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NjI3NiwtMTM5MDM1Nzk1LDg1MDUwOT
-kwNywtOTczOTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDUxNDM3NjUsLTEzOTAzNTc5NSw4NT
+A1MDk5MDcsLTk3Mzk0NjQyXX0=
 -->
